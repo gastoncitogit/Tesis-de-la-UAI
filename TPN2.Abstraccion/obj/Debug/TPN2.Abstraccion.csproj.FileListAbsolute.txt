@@ -1,0 +1,24 @@
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Abstraccion\bin\Debug\TPN2.Abstraccion.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Abstraccion\bin\Debug\TPN2.Abstraccion.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Abstraccion\obj\Debug\TPN2.Abstraccion.csproj.AssemblyReference.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Abstraccion\obj\Debug\TPN2.Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Abstraccion\obj\Debug\TPN2.Abstraccion.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Abstraccion\obj\Debug\TPN2.Abstraccion.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Abstraccion\bin\Debug\TPN2.Abstraccion.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Abstraccion\bin\Debug\TPN2.Abstraccion.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.csproj.AssemblyReference.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Abstraccion\bin\Debug\TPN2.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Abstraccion\bin\Debug\TPN2.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Abstraccion\bin\Debug\TPN2.Abstraccion.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Abstraccion\bin\Debug\TPN2.Abstraccion.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.csproj.AssemblyReference.cache
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.csproj.CoreCompileInputs.cache
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Abstraccion\obj\Debug\TPN2.Abstraccion.pdb

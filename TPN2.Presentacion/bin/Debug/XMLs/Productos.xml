@@ -1,0 +1,30 @@
+﻿<ArrayOfProducto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Producto xsi:type="ProductoNacional">
+    <ID>1</ID>
+    <Nombre>Dove</Nombre>
+    <Precio>600</Precio>
+    <ValorAgregado>100</ValorAgregado>
+    <Provincia>Jujuy</Provincia>
+  </Producto>
+  <Producto xsi:type="ProductoNacional">
+    <ID>2</ID>
+    <Nombre>Aspirina</Nombre>
+    <Precio>600</Precio>
+    <ValorAgregado>100</ValorAgregado>
+    <Provincia>Jujuy</Provincia>
+  </Producto>
+  <Producto xsi:type="ProductoInternacional">
+    <ID>3</ID>
+    <Nombre>Pantene</Nombre>
+    <Precio>1200</Precio>
+    <ValorAgregado>200</ValorAgregado>
+    <Pais>Chile</Pais>
+  </Producto>
+  <Producto xsi:type="ProductoNacional">
+    <ID>4</ID>
+    <Nombre>Clonazepam</Nombre>
+    <Precio>500</Precio>
+    <ValorAgregado>100</ValorAgregado>
+    <Provincia>Chaco</Provincia>
+  </Producto>
+</ArrayOfProducto>

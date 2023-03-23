@@ -1,0 +1,55 @@
+﻿<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario xsi:type="Administrador">
+    <ID>1</ID>
+    <Mail>Admin@hotmail.com</Mail>
+    <Contraseña>QQBkAG0AaQBuADEAMgAzADQAIQA=</Contraseña>
+  </Usuario>
+  <Usuario xsi:type="Cliente">
+    <ID>2</ID>
+    <Mail>Gastonete@hotmail.com</Mail>
+    <Contraseña>QQBzAGQAMQAyADMAeABkACEAIQA=</Contraseña>
+    <Apellido>Lopez</Apellido>
+    <Nombre>Gaston</Nombre>
+    <PerfilAsignado>1</PerfilAsignado>
+  </Usuario>
+  <Usuario xsi:type="Cliente">
+    <ID>3</ID>
+    <Mail>Juan@hotmail.com</Mail>
+    <Contraseña>QQBzAGQANAA0ADQAIQAhAA==</Contraseña>
+    <Apellido>Gallardo</Apellido>
+    <Nombre>Juan</Nombre>
+    <PerfilAsignado>3</PerfilAsignado>
+  </Usuario>
+  <Usuario xsi:type="Cliente">
+    <ID>4</ID>
+    <Mail>Martinez@hotmail.com</Mail>
+    <Contraseña>UAByAG8AZgBlAHMAbwByADEAMgAzADQAIQA=</Contraseña>
+    <Apellido>Martinez</Apellido>
+    <Nombre>Marcelo</Nombre>
+    <PerfilAsignado>2</PerfilAsignado>
+  </Usuario>
+  <Usuario xsi:type="Cliente">
+    <ID>5</ID>
+    <Mail>Gomez@hotmail.com</Mail>
+    <Contraseña>VgBlAG4AZABlAGQAbwByADEAMgAzADQAIQA=</Contraseña>
+    <Apellido>Luciano</Apellido>
+    <Nombre>Enzo</Nombre>
+    <PerfilAsignado>1</PerfilAsignado>
+  </Usuario>
+  <Usuario xsi:type="Cliente">
+    <ID>6</ID>
+    <Mail>Maxi@hotmail.com</Mail>
+    <Contraseña>TQBhAHgAaQAxADIAMwA0ACEA</Contraseña>
+    <Apellido>Bonaccorsi</Apellido>
+    <Nombre>Maximiliano</Nombre>
+    <PerfilAsignado>4</PerfilAsignado>
+  </Usuario>
+  <Usuario xsi:type="Cliente">
+    <ID>7</ID>
+    <Mail>General@hotmail.com</Mail>
+    <Contraseña>RwBlAG4AZQByAGEAbAAxADIAMwA0ACEA</Contraseña>
+    <Apellido>Pesado</Apellido>
+    <Nombre>Nicolas</Nombre>
+    <PerfilAsignado>17</PerfilAsignado>
+  </Usuario>
+</ArrayOfUsuario>

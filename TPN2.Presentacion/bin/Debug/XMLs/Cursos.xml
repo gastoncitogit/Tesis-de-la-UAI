@@ -1,0 +1,26 @@
+﻿<ArrayOfCurso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Curso>
+    <ID>1</ID>
+    <Descripcion>Curso de RCP</Descripcion>
+    <FechaDeInicio>2022-11-18T17:18:56</FechaDeInicio>
+    <FechaDeFinalizacion>2022-10-30T17:18:56</FechaDeFinalizacion>
+  </Curso>
+  <Curso>
+    <ID>2</ID>
+    <Descripcion>Curso de Alimentacion Saludable</Descripcion>
+    <FechaDeInicio>2022-12-16T15:20:10</FechaDeInicio>
+    <FechaDeFinalizacion>2022-12-31T15:20:10</FechaDeFinalizacion>
+  </Curso>
+  <Curso>
+    <ID>3</ID>
+    <Descripcion>Curso de Entrenamiento en Casa</Descripcion>
+    <FechaDeInicio>2022-11-17T15:48:36</FechaDeInicio>
+    <FechaDeFinalizacion>2022-11-27T15:48:36</FechaDeFinalizacion>
+  </Curso>
+  <Curso>
+    <ID>4</ID>
+    <Descripcion>Curso de prueba</Descripcion>
+    <FechaDeInicio>2022-12-16T22:47:46</FechaDeInicio>
+    <FechaDeFinalizacion>2022-12-31T22:47:46</FechaDeFinalizacion>
+  </Curso>
+</ArrayOfCurso>

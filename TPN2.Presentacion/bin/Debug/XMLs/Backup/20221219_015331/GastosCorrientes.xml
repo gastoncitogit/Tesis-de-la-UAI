@@ -1,0 +1,20 @@
+﻿<ArrayOfGastoCorriente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GastoCorriente>
+    <ID>1</ID>
+    <Descripcion>Arreglo de lamparas</Descripcion>
+    <Importe>10000</Importe>
+    <TipoDeGastoSeleccionado>Arreglo</TipoDeGastoSeleccionado>
+  </GastoCorriente>
+  <GastoCorriente>
+    <ID>2</ID>
+    <Descripcion>Pago de luz</Descripcion>
+    <Importe>30000</Importe>
+    <TipoDeGastoSeleccionado>Arreglo</TipoDeGastoSeleccionado>
+  </GastoCorriente>
+  <GastoCorriente>
+    <ID>3</ID>
+    <Descripcion>Salario</Descripcion>
+    <Importe>500</Importe>
+    <TipoDeGastoSeleccionado>Pago_De_Salario</TipoDeGastoSeleccionado>
+  </GastoCorriente>
+</ArrayOfGastoCorriente>

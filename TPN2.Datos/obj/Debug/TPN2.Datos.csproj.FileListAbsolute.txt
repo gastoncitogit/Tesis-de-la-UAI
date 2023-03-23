@@ -1,0 +1,18 @@
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Datos\bin\Debug\TPN2.Datos.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Datos\bin\Debug\TPN2.Datos.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Datos\obj\Debug\TPN2.Datos.csproj.AssemblyReference.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Datos\obj\Debug\TPN2.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Datos\obj\Debug\TPN2.Datos.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Datos\obj\Debug\TPN2.Datos.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Datos\bin\Debug\TPN2.Datos.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Datos\bin\Debug\TPN2.Datos.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Datos\obj\Debug\TPN2.Datos.csproj.AssemblyReference.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Datos\obj\Debug\TPN2.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Datos\obj\Debug\TPN2.Datos.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Datos\obj\Debug\TPN2.Datos.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Datos\bin\Debug\TPN2.Datos.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Datos\bin\Debug\TPN2.Datos.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Datos\obj\Debug\TPN2.Datos.csproj.AssemblyReference.cache
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Datos\obj\Debug\TPN2.Datos.csproj.CoreCompileInputs.cache
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Datos\obj\Debug\TPN2.Datos.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Datos\obj\Debug\TPN2.Datos.pdb

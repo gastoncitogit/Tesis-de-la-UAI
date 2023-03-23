@@ -1,0 +1,10 @@
+﻿<ArrayOfCompra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Compra>
+    <ID>1</ID>
+    <IDCliente>2</IDCliente>
+    <ListaProductosComprados>
+      <int>1</int>
+    </ListaProductosComprados>
+    <FechaDeLaCompra>2022-12-17T18:08:29.0505964-03:00</FechaDeLaCompra>
+  </Compra>
+</ArrayOfCompra>

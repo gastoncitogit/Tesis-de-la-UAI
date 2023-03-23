@@ -1,0 +1,122 @@
+﻿<ArrayOfPermiso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Permiso xsi:type="Perfil">
+    <ID>1</ID>
+    <Nombre>Vendedor</Nombre>
+    <Descripcion>Perfil de vendedor</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="Perfil">
+    <ID>2</ID>
+    <Nombre>Profesor</Nombre>
+    <Descripcion>Perfil de profesor</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="Perfil">
+    <ID>3</ID>
+    <Nombre>Administrativo</Nombre>
+    <Descripcion>Perfil Administrativo</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="Perfil">
+    <ID>4</ID>
+    <Nombre>Gerente</Nombre>
+    <Descripcion>Perfil de gerente</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>5</ID>
+    <Nombre>aBMClientesToolStripMenuItem</Nombre>
+    <Descripcion>ABM Clientes</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>6</ID>
+    <Nombre>perfilesToolStripMenuItem</Nombre>
+    <Descripcion>Gestion Perfiles</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>7</ID>
+    <Nombre>reseteoDeClavesToolStripMenuItem</Nombre>
+    <Descripcion>Reseteo de claves</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>8</ID>
+    <Nombre>altaDeCursosToolStripMenuItem</Nombre>
+    <Descripcion>Alta cursos</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>9</ID>
+    <Nombre>puntosDeMenuToolStripMenuItem</Nombre>
+    <Descripcion>Alta puntos de menu</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>10</ID>
+    <Nombre>historialDeLoginToolStripMenuItem</Nombre>
+    <Descripcion>Historial de login</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>11</ID>
+    <Nombre>administracionDePermisosToolStripMenuItem</Nombre>
+    <Descripcion>Administracion de permisos</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>12</ID>
+    <Nombre>desencriptacionToolStripMenuItem</Nombre>
+    <Descripcion>Desencriptacion</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>13</ID>
+    <Nombre>inscripcionACursoToolStripMenuItem</Nombre>
+    <Descripcion>Inscripcion a curso</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>14</ID>
+    <Nombre>aBMProductosToolStripMenuItem</Nombre>
+    <Descripcion>ABM productos</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>15</ID>
+    <Nombre>realizarBackupToolStripMenuItem</Nombre>
+    <Descripcion>Realizar backup</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>16</ID>
+    <Nombre>restaurarDesdeBackupToolStripMenuItem</Nombre>
+    <Descripcion>Restaurar desde backup</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="Perfil">
+    <ID>17</ID>
+    <Nombre>Cliente</Nombre>
+    <Descripcion>Perfil de cliente</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>18</ID>
+    <Nombre>EstadoFinancieroToolStripMenuItem</Nombre>
+    <Descripcion>Estado Financiero</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>19</ID>
+    <Nombre>comprarToolStripMenuItem</Nombre>
+    <Descripcion>Comprar</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>20</ID>
+    <Nombre>devolucionesToolStripMenuItem</Nombre>
+    <Descripcion>Devoluciones</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>21</ID>
+    <Nombre>gastosCorrientesToolStripMenuItem</Nombre>
+    <Descripcion>Gastos corrientes</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>23</ID>
+    <Nombre>salirToolStripMenuItem1</Nombre>
+    <Descripcion>Salir del programa</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="PuntosDeMenu">
+    <ID>24</ID>
+    <Nombre>cerrarSesionToolStripMenuItem</Nombre>
+    <Descripcion>Cerrar sesion</Descripcion>
+  </Permiso>
+  <Permiso xsi:type="Perfil">
+    <ID>25</ID>
+    <Nombre>PermisosGenerales</Nombre>
+    <Descripcion>Perfil de permisos generales</Descripcion>
+  </Permiso>
+</ArrayOfPermiso>

@@ -1,0 +1,32 @@
+﻿<ArrayOfClientePorCurso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ClientePorCurso>
+    <ID>1</ID>
+    <FK_Cliente>2</FK_Cliente>
+    <FK_Curso>1</FK_Curso>
+  </ClientePorCurso>
+  <ClientePorCurso>
+    <ID>2</ID>
+    <FK_Cliente>3</FK_Cliente>
+    <FK_Curso>1</FK_Curso>
+  </ClientePorCurso>
+  <ClientePorCurso>
+    <ID>3</ID>
+    <FK_Cliente>4</FK_Cliente>
+    <FK_Curso>1</FK_Curso>
+  </ClientePorCurso>
+  <ClientePorCurso>
+    <ID>4</ID>
+    <FK_Cliente>3</FK_Cliente>
+    <FK_Curso>2</FK_Curso>
+  </ClientePorCurso>
+  <ClientePorCurso>
+    <ID>5</ID>
+    <FK_Cliente>7</FK_Cliente>
+    <FK_Curso>2</FK_Curso>
+  </ClientePorCurso>
+  <ClientePorCurso>
+    <ID>6</ID>
+    <FK_Cliente>2</FK_Cliente>
+    <FK_Curso>2</FK_Curso>
+  </ClientePorCurso>
+</ArrayOfClientePorCurso>

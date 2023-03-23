@@ -1,0 +1,473 @@
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN1.Presentacion.frmUsuarioSecundario.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN1.Presentacion.frmCompra.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN1.Presentacion.frmDetalleCompra.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN1.Presentacion.frmHistorial.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN1.Presentacion.frmLogin.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN1.Presentacion.frmMain.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN1.Presentacion.frmProductos.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN1.Presentacion.frmUsuarios.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.Properties.Resources.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.csproj.GenerateResource.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarioSecundario.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.frmCompra.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.frmDetalleCompra.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.frmHistorial.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.frmLogin.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.frmMain.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.frmProductos.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN1.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarios.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarioSecundario.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmCompra.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDetalleCompra.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmHistorial.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmLogin.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmMain.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductos.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarios.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.Properties.Resources.resources
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.GenerateResource.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe.config
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.dll
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.pdb
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CopyComplete
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.exe
+C:\Users\Pikazard\Desktop\Tp gastonete\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe.config
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.SuggestedBindingRedirects.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductoSecundario.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarioSecundario.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmCompra.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDetalleCompra.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmHistorial.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmLogin.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmMain.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductos.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarios.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.Properties.Resources.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.GenerateResource.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.exe
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.UC_Fecha.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\EnvDTE.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\stdole.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TP2\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.ReportViewerProductos.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe.config
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.pdb
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\stdole.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.pdb
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.pdb
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.pdb
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.pdb
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.pdb
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.pdb
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.ReportViewerProductos.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductoSecundario.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarioSecundario.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmCompra.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDetalleCompra.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmHistorial.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmLogin.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmMain.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductos.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarios.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.Properties.Resources.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.UC_Fecha.resources
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.GenerateResource.cache
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CopyComplete
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.exe
+C:\Users\Badness\Desktop\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe.config
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\EnvDTE.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\stdole.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.SuggestedBindingRedirects.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.ReportViewerProductos.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductoSecundario.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarioSecundario.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmCompra.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDetalleCompra.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmHistorial.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmLogin.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmMain.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductos.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarios.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.Properties.Resources.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.UC_Fecha.resources
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.GenerateResource.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.exe
+G:\Biblioteca de Archivos\UAI\Lenguajes de ultima generacion\LUG X2\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.pdb
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.AssemblyReference.cache
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.SuggestedBindingRedirects.cache
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.ReportViewerProductos.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductoSecundario.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarioSecundario.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmCompra.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDetalleCompra.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmHistorial.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmLogin.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmMain.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductos.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmUsuarios.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.Properties.Resources.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.UC_Fecha.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.GenerateResource.cache
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CoreCompileInputs.cache
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.exe
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.pdb
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe.config
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.pdb
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\EnvDTE.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\stdole.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.pdb
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.pdb
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.pdb
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.pdb
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.pdb
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.pdb
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CopyComplete
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmReseteoDeClaves.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmPerfiles.resources
+G:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmPuntosDeMenu.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe.config
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.dll
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.AssemblyReference.cache
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.SuggestedBindingRedirects.cache
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmPerfiles.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmPuntosDeMenu.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmReseteoDeClaves.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductoSecundario.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmCompra.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDetalleCompra.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmHistorial.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmLogin.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmMain.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductos.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.Properties.Resources.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.UC_Fecha.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.GenerateResource.cache
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CoreCompileInputs.cache
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CopyComplete
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.exe
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.pdb
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmRestaurarDesdeBackup.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmCursos.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmInscripcionCurso.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmAdministracionPermisos.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmClienteSecundario.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmClientes.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmModificacionCliente.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDesencriptacion.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmGastoCorriente.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDevoluciones.resources
+F:\Biblioteca de Archivos\UAI\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmEstadoFinanciero.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe.config
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.exe
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Presentacion.pdb
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.dll
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.dll
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.dll
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.dll
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.dll
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.dll
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Entidades.pdb
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.LogicaDeNegocio.pdb
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Servicios.pdb
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Abstraccion.pdb
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Mapper.pdb
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\bin\Debug\TPN2.Datos.pdb
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.AssemblyReference.cache
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.SuggestedBindingRedirects.cache
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmCursos.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmInscripcionCurso.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmPerfiles.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmPuntosDeMenu.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmReseteoDeClaves.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmAdministracionPermisos.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDesencriptacion.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDevoluciones.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmEstadoFinanciero.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmGastoCorriente.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmModificacionCliente.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmRestaurarDesdeBackup.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductoSecundario.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmClienteSecundario.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmCompra.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmDetalleCompra.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmHistorial.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmLogin.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmMain.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmProductos.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.frmClientes.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.Properties.Resources.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.UC_Fecha.resources
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.GenerateResource.cache
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CoreCompileInputs.cache
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.csproj.CopyComplete
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.exe
+F:\Biblioteca de Archivos\Educacion\UAI\Materias rendidas\Trabajo Final\TPN2 para entregar\TPN2\TPN2.Presentacion\obj\Debug\TPN2.Presentacion.pdb

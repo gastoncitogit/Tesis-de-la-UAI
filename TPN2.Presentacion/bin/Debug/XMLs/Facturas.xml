@@ -1,0 +1,27 @@
+﻿<ArrayOfFactura xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Factura>
+    <ID>1</ID>
+    <NombreClienteComprador>Gaston</NombreClienteComprador>
+    <fechaDeCompra>2022-12-17T18:08:29.0505964-03:00</fechaDeCompra>
+    <ListaProductos>
+      <string>Nombre del producto: Dove Precio:600</string>
+    </ListaProductos>
+  </Factura>
+  <Factura>
+    <ID>2</ID>
+    <NombreClienteComprador>Gaston</NombreClienteComprador>
+    <fechaDeCompra>2023-03-23T13:09:16.0198607-03:00</fechaDeCompra>
+    <ListaProductos>
+      <string>Nombre del producto: Dove Precio:600</string>
+    </ListaProductos>
+  </Factura>
+  <Factura>
+    <ID>3</ID>
+    <NombreClienteComprador>Gaston</NombreClienteComprador>
+    <fechaDeCompra>2023-03-23T13:09:44.0380834-03:00</fechaDeCompra>
+    <ListaProductos>
+      <string>Nombre del producto: Clonazepam Precio:500</string>
+      <string>Nombre del producto: Clonazepam Precio:500</string>
+    </ListaProductos>
+  </Factura>
+</ArrayOfFactura>

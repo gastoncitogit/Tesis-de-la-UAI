@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD034571-BD23-4A19-A965-7EFB0F8130B3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TPN2.Mapper</RootNamespace>
+    <AssemblyName>TPN2.Mapper</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MPPCompra.cs" />
+    <Compile Include="MPPCurso.cs" />
+    <Compile Include="MPPDevolucion.cs" />
+    <Compile Include="MPPFactura.cs" />
+    <Compile Include="MPPGastoCorriente.cs" />
+    <Compile Include="MPPPermiso.cs" />
+    <Compile Include="MPPProducto.cs" />
+    <Compile Include="MPPUserRecord.cs" />
+    <Compile Include="MPPUsuario.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TPN2.Abstraccion\TPN2.Abstraccion.csproj">
+      <Project>{74b47156-71b9-417a-9965-8366e0d2e2b0}</Project>
+      <Name>TPN2.Abstraccion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPN2.Datos\TPN2.Datos.csproj">
+      <Project>{d395a57e-aa76-4577-a8b1-7e70261e7147}</Project>
+      <Name>TPN2.Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPN2.Entidades\TPN2.Entidades.csproj">
+      <Project>{ddc39139-52ae-43c4-adeb-0201952f9f52}</Project>
+      <Name>TPN2.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
